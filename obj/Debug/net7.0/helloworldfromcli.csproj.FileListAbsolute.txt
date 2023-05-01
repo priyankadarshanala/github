@@ -1,0 +1,15 @@
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.csproj.AssemblyReference.cache
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.GeneratedMSBuildEditorConfig.editorconfig
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.AssemblyInfoInputs.cache
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.AssemblyInfo.cs
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.csproj.CoreCompileInputs.cache
+D:\helloworldfromcli\bin\Debug\net7.0\helloworldfromcli.exe
+D:\helloworldfromcli\bin\Debug\net7.0\helloworldfromcli.deps.json
+D:\helloworldfromcli\bin\Debug\net7.0\helloworldfromcli.runtimeconfig.json
+D:\helloworldfromcli\bin\Debug\net7.0\helloworldfromcli.dll
+D:\helloworldfromcli\bin\Debug\net7.0\helloworldfromcli.pdb
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.dll
+D:\helloworldfromcli\obj\Debug\net7.0\refint\helloworldfromcli.dll
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.pdb
+D:\helloworldfromcli\obj\Debug\net7.0\helloworldfromcli.genruntimeconfig.cache
+D:\helloworldfromcli\obj\Debug\net7.0\ref\helloworldfromcli.dll
